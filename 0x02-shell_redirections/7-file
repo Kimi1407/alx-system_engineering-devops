@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+xecho "Best School" > \\\*\\\\\'\"Best\School\"\\\'\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)
+cut -d : -f 1,6 /etc/passwd | sort
